@@ -17,3 +17,4 @@ Some cherry-picked images from a paintings dataset.
 ![](./tests/Marquet,_Albert_-_The_Bay_of_Naples.jpg)
 ![](./tests/Vlaminck,_Maurice_de_-_Bougival.jpg)
 ![](./tests/Friedrich,_Caspar_David_-_On_a_Sailing_Ship.jpg)
+![](./tests/Gerome,_Jean-Leon_-_Pool_in_a_Harem.jpg)
